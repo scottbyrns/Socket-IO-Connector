@@ -3,7 +3,7 @@
     "description": "Live Widget for connecting to a socket server through socket.io",
     "groupId": "com.scottbyrns.widgets.HTML5.io",
     "artifactId": "SocketIOConnector",
-    "version": "1.0.0-SNAPSHOT",
+    "version": "1.0.1-SNAPSHOT",
     "url": "a",
     "scm": "a",
     "issueTracking": "a",
